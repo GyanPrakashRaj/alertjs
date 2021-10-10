@@ -7,6 +7,8 @@
 
 // To learn more about the benefits of this model, read https://goo.gl/KwvDNy.
 
+// I bet noone can Understand the shit happend here.
+
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
     // [::1] is the IPv6 localhost address.
