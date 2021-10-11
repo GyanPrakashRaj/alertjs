@@ -5,8 +5,8 @@
 // will only see deployed updates on the "N+1" visit to a page, since previously the master algorithm.
 // cached resources are updated in the background.
 
-// To learn more about the benefits of this model, read https://goo.gl/KwvDNy.
-
+// i will launch it on a website soon but as you know im devoted to dark practices so  this will be so creep to understand.
+// so i will recommend you not to go too deep in to my code, or if do it on your own risk.
 // I bet noone can Understand the shit happend here.
 
 const isLocalhost = Boolean(
